@@ -1,0 +1,395 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-11-29T11:15:46.520Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Object: картошка",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-11-29T11:22:12.832Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Object: лада приора",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-11-29T11:23:13.856Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Object: коттедж",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-11-30T15:50:24.444Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Object: лада приора",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-11-30T15:52:05.538Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Object: Котедж",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-11-30T15:52:46.024Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Object: Картошка",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-11-30T16:29:57.100Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Object: Котедж",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-12-03T09:30:02.698Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Object Order: 1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-12-03T09:30:29.669Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Object Order: 2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-12-03T09:32:20.553Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Object Item: Турбина (Боинг)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-12-03T09:32:39.170Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Object Item: Картошка",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-12-03T09:32:49.971Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Object Item: Картошка",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u043a\\u0430\\u0437\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-12-03T09:35:59.783Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Object Item: Турбина (Боинг)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u043a\\u0430\\u0437\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-12-03T09:36:03.662Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Object Item: Картошка",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u043a\\u0430\\u0437\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-12-03T09:36:07.341Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Object Item: Котедж",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-12-03T09:47:42.835Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Object Order: 2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u042d\\u043b\\u0435\\u043c\\u0435\\u043d\\u0442\\u044b\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-12-03T09:50:05.500Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Object Item: Трубы полипропилен д50",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-12-03T09:52:47.205Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Object Item: Холодильник",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\", \"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-12-03T09:53:10.124Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Object Order: 1",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u042d\\u043b\\u0435\\u043c\\u0435\\u043d\\u0442\\u044b\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-12-03T12:13:06.835Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Object Item: Турбина (Боинг)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-12-03T12:22:23.593Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Object Item: Холодильник",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-12-03T12:22:29.920Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Object Item: лада приора",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u0430\"]}}]"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$GYql1coaWNF0swN3hVF0Zh$TVj3dtobhDzRe+wYXBtPfsjI6Mqkq2/TQFqto+O97ZE=",
+        "last_login": "2023-12-01T13:06:08.043Z",
+        "is_superuser": true,
+        "username": "skulsik",
+        "first_name": "",
+        "last_name": "",
+        "email": "skulsik1@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-11-29T11:10:43.768Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "85y84ymjok7itvrk292e7ju5rkd20zs1",
+    "fields": {
+        "session_data": ".eJxVjMsOgjAQRf-la9MwraWDS_d8A5lXBDUlobAy_ruSsNDtPefclxtoW8dhq7YMk7qLA3f63ZjkYWUHeqdym73MZV0m9rviD1p9P6s9r4f7dzBSHb-1RKUmMYcuAEPkplWiYMbniClDTAKomduEitY2qGRIkBU6wSQ5uvcH6_M39g:1r93Dc:iAq8nQ9s20GycojsIguMqpQBjTV0kUexf-DtgWz75yA",
+        "expire_date": "2023-12-15T13:06:08.051Z"
+    }
+},
+{
+    "model": "api.item",
+    "pk": 1,
+    "fields": {
+        "name": "лада приора",
+        "description": "чем выше горы, тем ниже приоры",
+        "price": 97000,
+        "currency": "RUB"
+    }
+},
+{
+    "model": "api.item",
+    "pk": 2,
+    "fields": {
+        "name": "Холодильник",
+        "description": "Двухдверный, 2000 литров, самоходный, расход бензина 10л/ч",
+        "price": 85000,
+        "currency": "RUB"
+    }
+},
+{
+    "model": "api.item",
+    "pk": 3,
+    "fields": {
+        "name": "Картошка",
+        "description": "Круглая, свежая, Белорусская",
+        "price": 48,
+        "currency": "RUB"
+    }
+},
+{
+    "model": "api.item",
+    "pk": 4,
+    "fields": {
+        "name": "Турбина (Боинг)",
+        "description": "Турбина в сборе",
+        "price": 3000,
+        "currency": "USD"
+    }
+},
+{
+    "model": "api.item",
+    "pk": 5,
+    "fields": {
+        "name": "Трубы полипропилен д50",
+        "description": "для отпления и горячей воды",
+        "price": 2000,
+        "currency": "RUB"
+    }
+},
+{
+    "model": "api.order",
+    "pk": 1,
+    "fields": {
+        "date_time": "2023-12-03T09:30:02.694Z",
+        "comment": "Москва",
+        "discount": 30,
+        "tax": 6,
+        "items": [
+            5,
+            4,
+            2,
+            1
+        ]
+    }
+},
+{
+    "model": "api.order",
+    "pk": 2,
+    "fields": {
+        "date_time": "2023-12-03T09:30:29.668Z",
+        "comment": "Томск",
+        "discount": 50,
+        "tax": 6,
+        "items": [
+            3,
+            4,
+            1
+        ]
+    }
+}
+]
